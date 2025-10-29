@@ -8,7 +8,7 @@ public class backupmain {
         String rpta;
         do {
             //Escoger un auto y decidir si comprarlo o no con "do y while"
-            System.out.println("bienvenido al concecionario toyota");//bienvenido al concecionario toyota
+            System.out.println("bienvenido al concesionario toyota");//bienvenido al concecionario toyota
             System.out.println("a continuacion se muestra los modelos disponibles, selecciona uno");//a continuacion se muestra los modelos disponibles
             System.out.println("1) hilux; 2)corolla; 3)yaris");//1) hilux; 2)corolla; 3)yaris
             int modelo = sc.nextInt();
